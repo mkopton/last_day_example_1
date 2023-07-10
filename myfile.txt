@@ -1,2 +1,1 @@
-new file
-more changes
+CONFLICTING CHANGE
